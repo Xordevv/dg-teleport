@@ -3,5 +3,5 @@
     "name": "dg-teleport",
     "author": "edu, PsykoDev, odukjung",
     "description": "Fast teleport to every important dungeon",
-    "servers": [""]
+    "servers": ["https://raw.githubusercontent.com/Xordevv/dg-teleport/master/"]
 }
